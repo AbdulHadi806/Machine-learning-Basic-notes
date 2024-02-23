@@ -18,11 +18,11 @@
 
 ### swarmplot
 
-<img width="536" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/2be86a31-164e-4422-b0a9-215e28f2461a">
+<img width="350" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/2be86a31-164e-4422-b0a9-215e28f2461a">
 
 ### boxplot
 
-<img width="350" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/4edc018d-8782-4fff-a8f9-addd6152f7c4">
+<img width="350" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/6f7e4df4-a286-4211-a537-7486cd096017">
 
 ### violinplot
 

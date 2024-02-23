@@ -27,7 +27,7 @@ Example 2: dataset[1,2,3,4,5], there is **no mode**.
 Interquartile Range is **Q2 - Q1 or Q2 - Q3, etc** meaning number beween Quartiles. E.g how many people there were between 25% and 75% or 25% and 50% is called IQR.
 We can also find outliears using IQR.
 
-<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/dac3328e-ff73-4c19-a54d-37a5e335b325">
+<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/3a969b32-67c6-4312-a1d9-62affeb1d218">
 
 Using Prebuild pandas function
 ```
@@ -59,7 +59,7 @@ print("Outliers:", outliers)
 Finding basic Interquartile Range and outliears.
 Output is:
 
-<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/3a969b32-67c6-4312-a1d9-62affeb1d218">
+<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/17d54d0f-5f03-4a12-9afe-2373bebae9d3">
 
 We can also find the Q1, Q2, Q3 and outlinears using boxplot
 ```

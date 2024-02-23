@@ -59,7 +59,7 @@ print("Outliers:", outliers)
 Finding basic Interquartile Range and outliears.
 Output is:
 
-<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/fb375559-db4c-4df6-af65-b06ad40b16a0">
+<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/3a969b32-67c6-4312-a1d9-62affeb1d218">
 
 We can also find the Q1, Q2, Q3 and outlinears using boxplot
 ```

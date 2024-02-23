@@ -36,6 +36,9 @@
 
 <img width="350" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/8f421b89-98c6-486c-b849-8328d452a90e">
 
+### Scatter Plot
+
+<img width="350" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/7287ed45-dd2b-4505-9c22-e7fa8bba8bb5">
 
 ### lmplot
 

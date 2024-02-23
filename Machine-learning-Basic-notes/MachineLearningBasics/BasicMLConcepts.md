@@ -6,17 +6,17 @@ Supervised learning is the learning in which we provide labeled data.
 
 While creating a supervised learning model, input and output are provided during training. This is how a model trains itself, so model gets input from the training data point(row) and predicts the output and checks the actual output and if the output is correct than model does'nt improve itself at that row but if prediction is incorrect than model improves itself and than moves to the next observation(row) and continues to do this until all training data is completed.
 
-<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/0dc013aa-efe5-491e-8bff-3d9cc2790c63">
+<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/cb889a48-8fc4-465f-ba83-02b61928fef5">
 
 ## Unsupervised Learning  
 In supervised learning model learns itself from patterns.  
 
-<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/df06aabf-7cdf-412e-8dfb-86b033200f73">
+<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/b520a7fb-1eaf-408b-b0da-9c61657ec920">
 
 ## Reinforcement Learning  
 In reinforcement Learning an agent which is trained on the basis of reward or punishement for example training a Dog, if a dog does good he gets meat and if does'nt do good than he is given 10 minutes timeout.  
 
-<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/005d8118-f616-492a-aec4-3f9ff1414fa8">
+<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/b15d753f-1f6a-453c-83fa-d571f6dc1482">
 
 
 
@@ -51,7 +51,8 @@ A target variable is the variable that we want to predict. It represents the out
 
 Choose a meaningful target variable based on the problem at hand.
 
-<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/5d1d1913-3bb8-469d-9da5-af28259f35da">
+<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/b312e839-153a-4522-8347-729125497a5b">
+
 
 
 ## Regression

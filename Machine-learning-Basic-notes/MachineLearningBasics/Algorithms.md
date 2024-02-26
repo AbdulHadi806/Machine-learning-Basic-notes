@@ -6,6 +6,12 @@ will pass(1) or fail(0) based on study hours. Logistic Regression works on the p
 This value is a probability that whether the dependent variable value we get due to independent variables, the value will be according to the threshold e.g if the value
 is below threshold than the student has failed and if it is above it than it would mean that the student has passed.
 
+### Finding probability of each class
+
+```
+probabilities = model.predict_proba(x_test)[:, 1]
+```
+
 <img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/cb6bb37d-aaf5-4a47-837e-92db735f44a1">
 
 <img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/801b7946-35f8-432f-80a6-543e6c919f9f">

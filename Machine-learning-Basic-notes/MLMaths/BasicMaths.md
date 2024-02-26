@@ -6,6 +6,10 @@ A loss function quantifies the difference between the predicted value of model a
 ### Mean Squared Error (MSE)
 Used for regression problems, it calculates the average squared difference between the predicted and actual values.
 
+
+<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/8064c840-129f-4ca3-b865-4e272c859be8">
+
+
 ### Cross-Entropy Loss (or Log Loss)
 Commonly used for classification problems, particularly in logistic regression and neural networks. It measures the difference between predicted probabilities and actual class labels.
 

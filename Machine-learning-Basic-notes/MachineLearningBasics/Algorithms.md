@@ -22,3 +22,11 @@ It finds the best fitting line that represents the relationship between X and Y.
 
 
 <img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/eb7c0bd5-a47c-486d-ac9d-539b9723d7a1">
+
+
+## Decision Tree Regressor
+Decision tree regressor involves **partitioning the data into subsets** based on the values of **independent variables** and predicting the average of the target
+variable for each subset.
+
+
+<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/165c45da-355e-4bda-99c8-7e324f0724d6">

@@ -1,8 +1,5 @@
 # Algorithms and Related Topics
 
-## Loss Function
-A loss function quantifies the difference between the predicted value of model and the actual value. It is done through methods such as Mean Squared Error (MSE), Cross-Entropy Loss (or Log Loss), end of thinking capacity of my model 😂😂
-
 ## Logistic Regression
 Logistic Regression is a type of classification algorithm. Logistic Regression is a type of analysis for predicting binary outcomes. E.g predicting whether a student 
 will pass(1) or fail(0) based on study hours. Logistic Regression works on the probability for example in the graph below, we can see that threshold value is set at the center.

@@ -37,3 +37,10 @@ Random Forest is a learning method that creates **multiple decision trees** duri
 
 
 <img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/14066147-7985-45ab-8b2f-66e663ca4a03">
+
+
+## Gradient Boosting Regressor
+Gradient Boosting Regressor is a learning technique that builds multiple trees sequentially, each one correcting the errors of its predecessor.
+
+
+<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/948e06ca-d1e7-482c-abab-14cba39deef4">

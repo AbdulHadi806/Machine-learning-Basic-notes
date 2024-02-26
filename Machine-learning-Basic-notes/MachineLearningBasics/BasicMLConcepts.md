@@ -54,9 +54,12 @@ Choose a meaningful target variable based on the problem at hand.
 <img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/b312e839-153a-4522-8347-729125497a5b">
 
 
-
 ## Regression
-It is the technique to calculate score for example if we input a company monthly sales than we can predict the sales that company will have i.e give us numbers. Regression always output numbers.
+It is the technique to calculate score for example if we input a company monthly sales than we can predict the sales that company will have i.e give us numbers. 
+Regression has a dependent variable while one or more independent variables. To find the independent variables what we do is take correlation than drop labels with low correlation and the remaining columns may be best independent variables I call this nayves/bewakof approache. Regression always output numbers. Common algorithm in Regression is Linear Regression.
+
+<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/8f1d93a0-54ef-4272-b7be-e91f6150c937">
+
 
 ### Pipeline in huggingface
 In huggingface, a pipeline is a simple way to perform NLP tasks. Due to pipeline we don't need to do stuffs such as setting up model, tokenization, etc. We provide the input and everything else is handled by the pipeline. We cannot train the model using pipeline but we can use it for prediction purposes only.

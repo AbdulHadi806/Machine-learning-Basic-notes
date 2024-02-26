@@ -15,6 +15,18 @@ Mode is the value that appears most frequently in a dataset. A dataset can have 
 Example 1: dataset[3, 4, 4, 6, 8], the mode is **4**.
 Example 2: dataset[1,2,3,4,5], there is **no mode**.
 
+### Mean Squared Error (MSE)
+Used for regression problems, it calculates the average squared difference between the predicted and actual values.
+
+### Cross-Entropy Loss (or Log Loss)
+Commonly used for classification problems, particularly in logistic regression and neural networks. It measures the difference between predicted probabilities and actual class labels.
+
+### Hinge Loss
+Often used for support vector machines (SVMs) and other classifiers. It penalizes misclassifications based on a margin.
+
+### Categorical Cross-Entropy Loss
+Similar to cross-entropy loss, but specifically designed for multi-class classification problems.
+
 ### Quartiles and Interquartile Range (IQR)
 **Quartiles**: Before understanding the IQR, we need to grasp the concept of quartiles.
 

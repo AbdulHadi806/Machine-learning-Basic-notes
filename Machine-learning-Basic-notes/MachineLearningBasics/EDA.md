@@ -46,6 +46,13 @@ Studying the relationship of 2 columns(**Feature, Attribute, Variable**) is know
 ### Data Transformation
 Data Transformation is important as most models love numbers.
 
+### Data standardization
+Data Standardization is a type of data preprocessing that makes different features have a **same scale**.
+
+
+<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/f17cfcfe-e678-4f15-8e38-7426300a6293">
+
+
 ### Why we care about Dispersion?
 - Increased difficulty in **capturing patterns**.
 - Increased risk of **overfitting**.

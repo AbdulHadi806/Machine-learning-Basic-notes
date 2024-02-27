@@ -17,8 +17,8 @@ Difference between Deep Learning and Machine Learning.
 
 ## Simple Neural Network
 
-Maths functions are called neurons such as Max function.
-A structure of neural network is as follows: input neuron => hidden layers => output neuron
+Maths functions are called neurons such as Max function. Each neuron even if in the same layer they are responsible for different patterns.
+The structure of a simple neural network is as follows: input neuron => hidden layers => output neuron
 
 <img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/ef62e8b0-d671-4b79-88c6-b01590062e9a">
 

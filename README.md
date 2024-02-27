@@ -9,6 +9,7 @@ Welcome to Machine Learning Basic Notes! This repository contains beginner-frien
 - **[ML Basic Maths Concepts](https://github.com/AbdulHadi806/Machine-learning-Basic-notes/blob/main/Machine-learning-Basic-notes/MLMaths/BasicMaths.md)**
 - **[Pandas Notes](https://github.com/AbdulHadi806/Machine-learning-Basic-notes/blob/main/Machine-learning-Basic-notes/Libraries/pandasNotes.md)**
 - **[Exploratory Data Analysis (EDA) Basics](https://github.com/AbdulHadi806/Machine-learning-Basic-notes/blob/main/Machine-learning-Basic-notes/MachineLearningBasics/EDA.md)**
+- **[Deep Learning](https://github.com/AbdulHadi806/Machine-learning-Basic-notes/blob/main/Machine-learning-Basic-notes/deep-learning/Deeplearning.md)**
 - **[Seaborn Basics](https://github.com/AbdulHadi806/Machine-learning-Basic-notes/blob/main/Machine-learning-Basic-notes/Libraries/seabornNotes.md)**
 - **[Linear Regression Model](https://github.com/AbdulHadi806/Sales-Regression/blob/main/main.ipynb)**
 

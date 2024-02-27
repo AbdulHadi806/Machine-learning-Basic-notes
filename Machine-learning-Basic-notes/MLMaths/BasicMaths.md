@@ -143,3 +143,7 @@ In the example below *165 test samples* are rows that we provided for the testin
 
 
 <img width="388" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/0c7779b8-a803-4967-af34-93bc40e78a1c">
+
+
+<img width="388" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/23dbbb24-a255-47ae-a17f-4c222120daeb">
+

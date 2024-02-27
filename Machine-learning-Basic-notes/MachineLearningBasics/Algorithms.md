@@ -29,7 +29,7 @@ Decision tree regressor involves **partitioning the data into subsets** based on
 variable for each subset.
 **Fun Fact** A Decision tree can do both classification and regression.
 
-<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/165c45da-355e-4bda-99c8-7e324f0724d6">
+<img width="389" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/b4824102-2112-4ae7-86ef-4ac4e74850e0">
 
 
 ## Random Forest Regressor

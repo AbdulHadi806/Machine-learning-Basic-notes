@@ -44,3 +44,8 @@ Gradient Boosting Regressor is a learning technique that builds multiple trees s
 
 
 <img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/948e06ca-d1e7-482c-abab-14cba39deef4">
+
+## Entropy
+In Machine Learning, entropy measures the level of disorder or uncertainty in a given dataset or system. It is a metric that quantifies the amount of information in a dataset, and it is commonly used to evaluate the quality of a model and its ability to make accurate predictions.
+
+In the context of **Decision Trees**, entropy is a measure of disorder or impurity in a node. Thus, a node with more variable composition, such as 2Pass and 2 Fail would be considered to have higher Entropy than a node which has only pass or only fail.

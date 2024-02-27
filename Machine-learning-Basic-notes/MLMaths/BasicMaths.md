@@ -126,8 +126,16 @@ A training dataset is said to be skewed if the distribution of its target variab
 
 
 ## Confusion Matric
+It only works on the classifier algorithm.
+
 
 <img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/60da9c4d-fac2-4686-a83f-faf2288d5cf8">
 
 <img width="327" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/16b96982-841c-450d-9d9e-ee28a5d3e2dc">
+
+
+In the example below *165 test samples* are rows that we provided for the testing.
+
+<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/a7ca9cfa-13d7-4c2f-9ad4-23e862d4bb75">
+
 

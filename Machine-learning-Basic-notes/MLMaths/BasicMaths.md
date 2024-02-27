@@ -136,6 +136,6 @@ It only works on the classifier algorithm.
 
 In the example below *165 test samples* are rows that we provided for the testing.
 
-<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/a7ca9cfa-13d7-4c2f-9ad4-23e862d4bb75">
+<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/ae65bf0f-d8c6-42c9-903c-61df7fc64a45">
 
 

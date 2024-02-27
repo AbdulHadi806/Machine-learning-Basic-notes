@@ -71,3 +71,9 @@ Decision Tree has a node on which a decision is made. Decision Tree can also ope
 Random Forest Classifier is a ensemble learning method that created **multiple decision trees** during training and outputs the **average prediction** from all
 individual trees.
 
+## Confusion Matric
+
+<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/60da9c4d-fac2-4686-a83f-faf2288d5cf8">
+
+<img width="327" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/16b96982-841c-450d-9d9e-ee28a5d3e2dc">
+

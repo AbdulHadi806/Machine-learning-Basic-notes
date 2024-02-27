@@ -88,11 +88,21 @@ sns.boxplot(x=df['Engine Size(L)'])
 ## Five Number Summery
 Five Number summery is min, max q1, q2, q3
 
-# Min-Max Scaling
+# Scaling data
+
+## Min-Max Scaling
 Min-Max Scaling is a data **normalization** technique used to **transform data** into a **specific range**. Normalization is a best practice that should be done as it
 decreases computation power. Min-Max scaling converts data into 0s and 1s.
 
 <img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/2ef1d08a-0250-4224-8e44-b61650fa0dc0">
 
 <img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/5fbfbe7a-3471-4a20-b3d2-05f4219719ff">
+
+
+## Z-Score scaling
+Z-Score Scaling, also known as **standardization**, is a technique used to **transform data** into a standard normal distribution.
+
+<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/076007f6-6b9f-49b6-ab1d-751b516d4b2b">
+
+<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/7a234d06-a66f-4877-8520-c54980ecaf78">
 

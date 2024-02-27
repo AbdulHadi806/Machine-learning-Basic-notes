@@ -1,5 +1,6 @@
 # Basic Machine Learning Maths
 
+
 ## Loss Function
 A loss function quantifies the difference between the predicted value of model and the actual value. It is done through methods such as Mean Squared Error (MSE), Cross-Entropy Loss (or Log Loss), end of thinking capacity of my model 😂😂
 
@@ -85,10 +86,10 @@ We can also find the Q1, Q2, Q3 and outlinears using boxplot
 sns.boxplot(x=df['Engine Size(L)'])
 ```
 
-## Five Number Summery
-Five Number summery is min, max q1, q2, q3
+## Five Number Summary
+Five Number summary is min, max q1, q2, q3
 
-# Scaling data
+# Scaling data, evaluating models on data
 
 ## Min-Max Scaling
 Min-Max Scaling is a data **normalization** technique used to **transform data** into a **specific range**. Normalization is a best practice that should be done as it
@@ -106,3 +107,18 @@ Z-Score Scaling, also known as **standardization**, is a technique used to **tra
 
 <img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/7a234d06-a66f-4877-8520-c54980ecaf78">
 
+## Accuracy
+It only applies to classification. It is the ratio of correct predictions to the total number of input samples.
+If target variable is **imbalance** we should not use Accuracy rather there are other techniques for evaluating the classification model i.e **evaluation matrix**
+
+<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/8def7ef8-cbbe-491e-a27c-7f43a7744759">
+
+
+**Note:** It works well only if there are **equal** number of samples belonging to each class/category.
+
+## Imbalance Data/Class Imbalance
+Imbalanced data refers to those types of datasets where the target class has an uneven distribution of observations, i.e one class label has a very high number of observations, and the other has a very low number of observations. Imbalance data is always in categories e.g person is human or alien, more persons are human while
+less are alien. Let's say 98% of people are human while 2% are aliens this creates a class imbalance.
+
+## Skewed Data 
+A training dataset is said to be skewed if the distribution of its target variable is uneven around its mean value. Skewed data is numerical.

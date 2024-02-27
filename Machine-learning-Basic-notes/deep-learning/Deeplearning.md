@@ -13,3 +13,13 @@ For example, in the case of a linear model, we will be unable to draw a best-fit
 Difference between Deep Learning and Machine Learning.
 
 <img width="318" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/045d2944-353f-4129-b36e-4ed11693ae9a">
+
+
+## Simple Neural Network
+
+Maths functions are called neurons such as Max function.
+A structure of neural network is as follows: input neuron => hidden layers => output neuron
+
+<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/ef62e8b0-d671-4b79-88c6-b01590062e9a">
+
+

@@ -63,6 +63,9 @@ The number of times the entire training dataset is seen by the model.
 Activation functions are like decision-makers. They decide whether a neuron should fire or not based on the input it receives. Activation functions help neurons to
 make similar decisions, determining whether they should contribute to the output of the neural network.
 
-Activation Function determines the functions applied to the outputs of each neuron to **introduce non-linearity**. Non-linearity means when we cannot form a straight line i.e when the output is alot complex.
+##### relu
+reLU is a commonly used neuron used for finding Max values
 
-<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/e8c79f75-324d-4ea3-af3e-defd6104f66e">
+#### Softmax
+Group of neurons for predicting more than 2 categories.
+

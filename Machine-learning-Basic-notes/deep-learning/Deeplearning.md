@@ -25,9 +25,9 @@ The structure of a simple neural network is as follows: input neuron => hidden l
 
 
 ## Hyperparameters
+Anything that cannot be understood through data is called Hyperparameters e.g number of hidden layers, number of neurons, learning rate, Epochs, etc. 
 Hyperparameters are parameters whose values are set before the training and remain constant throughout the training. They are not learned from the data but rather 
-they are set using common sense. They are crucial as they control the behavior of the training algorithm and ultimately impact the performance of the model. They are set
-by the human himself.
+they are set using common sense or trial and error. They are crucial as they control the behavior of the training algorithm and ultimately impact the performance of the model. They are set by the ML engineers by themselves using trial and error.
 
 Types of some Hyperparameters
 - Learning rate

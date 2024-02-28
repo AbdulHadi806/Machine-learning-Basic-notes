@@ -1,4 +1,4 @@
-# Algorithms and more
+# Algorithms and more(
 
 ## Sequential()
 One of the first models in tensorflow. It builds a neural network layer by layer by running a command compile.

@@ -1,4 +1,4 @@
-# Algorithms and more(
+# Tensorflow and more
 
 ## Dense()
 A standard connected neuron layer is called Dense. For hidden layer, parameters are Dense(neurons_count, input_size, activation_function) while for output is 

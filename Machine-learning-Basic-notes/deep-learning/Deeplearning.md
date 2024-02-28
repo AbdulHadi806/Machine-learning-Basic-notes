@@ -18,13 +18,13 @@ Difference between Deep Learning and Machine Learning.
 ## Simple Neural Network
 
 Maths functions are called neurons such as Max function. Each neuron even if in the same layer they are responsible for different patterns.
-The structure of a simple neural network is as follows: input neuron => hidden layers => output neuron
+The structure of a simple neural network is as follows: input neuron => hidden layers(each layer has neurons) => output neuron
 
 <img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/ef62e8b0-d671-4b79-88c6-b01590062e9a">
 
 
 
-## Hyper parameters
+## Hyperparameters
 Hyperparameters are parameters whose values are set before the training and remain constant throughout the training. They are not learned from the data but rather 
 they are set using common sense. They are crucial as they control the behavior of the training algorithm and ultimately impact the performance of the model. They are set
 by the human himself.
@@ -55,6 +55,14 @@ Batch size is like breaking a big problem into smaller pieces. It's similar to s
 <img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/ea76eb3d-6847-4e40-a083-ded717ee6aed">
 
 #### Epochs
-The number of time the entire training dataset is seen by the model.
+The number of times the entire training dataset is seen by the model.
 
-<img width="608" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/e83968f1-2b8f-49af-af89-403301ad9173">
+<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/e83968f1-2b8f-49af-af89-403301ad9173">
+
+#### Activation Function(neuron)
+Activation functions are like decision-makers. They decide whether a neuron should fire or not based on the input it receives. Activation functions help neurons to
+make similar decisions, determining whether they should contribute to the output of the neural network.
+
+Activation Function determines the functions applied to the outputs of each neuron to **introduce non-linearity**. Non-linearity means when we cannot form a straight line i.e when the output is alot complex.
+
+<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/e8c79f75-324d-4ea3-af3e-defd6104f66e">

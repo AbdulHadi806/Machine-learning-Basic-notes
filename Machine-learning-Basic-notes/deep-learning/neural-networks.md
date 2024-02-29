@@ -25,6 +25,8 @@ identifying patterns along the way. In simple terms, CNN creates a basic image, 
 
 <img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/edf015cd-6c30-4915-ab7e-33c46169e7f4">
 
+<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/f474ddcc-8a09-4b94-a38a-9d4dd30d9f5b">
+
 ##### Pooling
 
 <img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/637724c3-ef62-4036-91bf-a6822a432168">

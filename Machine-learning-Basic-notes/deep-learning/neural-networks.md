@@ -1,7 +1,7 @@
 # Neural Networks
 
 # Regular Neural Network(ANN)
-ANN(Artificial Neural Network) is the most common type of neural network. It has three types of layers: input, hidden, and output. In ANN
+Regular Neural Network also known as ANN(Artificial Neural Network) is the most common type of neural network. It has three types of layers: input, hidden, and output. In ANN
 units from one layer are connected to another. Each connection has weights that determine the influence of one unit on another unit. As the data transfers from one
 unit to another, the neural network learns more and more about the data which eventually results in an output from the output layer.
 

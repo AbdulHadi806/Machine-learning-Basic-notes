@@ -15,6 +15,8 @@ CNN, or Convolutional Neural Network, is primarily used for computer vision task
 Like our brain, CNN first examines simple features like color, weight, and shape to understand it. Then, it progressively analyzes more complex details, 
 identifying patterns along the way. In simple terms, CNN creates a basic image, gradually adding layers of complexity to recognize and understand visual information.
 
+**CNN** has **four layers** input layer => convolutional layer => Pooling layer => connected layer
+
 [CNN awesome blog](https://www.geeksforgeeks.org/introduction-convolution-neural-network/)
 
 <img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/f9ff45a7-e3c3-49bb-80b5-609eccdc5153">

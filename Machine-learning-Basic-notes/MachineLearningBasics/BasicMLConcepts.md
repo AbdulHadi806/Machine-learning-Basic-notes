@@ -63,5 +63,8 @@ Regression has a dependent variable while one or more independent variables. To 
 ## Dimentionality Reduction
 Dimentionality reduction in easy words is triming data or removing unneccessary labels and reduce the data size. Labels are called dimensions for example if there are 12 columns than we say there are 12 dimensions. You can say that dimension is another name for a label/variable/attribute.
 
+### Pipeline
+Pipeline is a sequence of commands. Pipeline allows the process of inputting data into ML model fully automated.
+
 ### Pipeline in huggingface
 In huggingface, a pipeline is a simple way to perform NLP tasks. Due to pipeline we don't need to do stuffs such as setting up model, tokenization, etc. We provide the input and everything else is handled by the pipeline. We cannot train the model using pipeline but we can use it for prediction purposes only.

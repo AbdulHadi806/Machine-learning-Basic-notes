@@ -38,7 +38,16 @@ identifying patterns along the way. In simple terms, CNN creates a basic image, 
 <img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/1b3e03b2-eb6e-4532-825f-0dc347df9602">
 
 
-##### Autoencoders
-AutoEncoders CNN has two main parts encoder and decoder. They are used for unsupervised learning. The encoder part compresses the input data into lower-dimensional 
+### Autoencoders
+AutoEncoders has two main parts encoder and decoder. The encoder part compresses the input data into lower-dimensional 
 representation, typically using convolutional layers to capture important features. The **decoder** part reconstructs the original input from the compressed representation,
 often employing transposed convolutional layer or upsampleing layers.
+
+<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/0ee350ef-7f31-4ad7-b021-5d7b2bb67f74">
+
+<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/0104ea8c-a847-4680-8f5b-196643c7c869">
+
+###### What are encoders and decoders?
+
+<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/ab50e3ed-f4b9-4629-bedb-3f2637505df4">
+

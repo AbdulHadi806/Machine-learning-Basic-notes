@@ -39,9 +39,19 @@ identifying patterns along the way. In simple terms, CNN creates a basic image, 
 
 
 ### Autoencoders
-AutoEncoders has two main parts encoder and decoder. The encoder part compresses the input data into lower-dimensional 
-representation, typically using convolutional layers to capture important features. The **decoder** part reconstructs the original input from the compressed representation,
-often employing transposed convolutional layer or upsampleing layers.
+An autoencoder is a type of neural network that is trained to copy its input to its output. It consists of two parts: an encoder and a decoder. The encoder transforms the input data into a lower dimensional representation, which is often called the hidden layer, the latent space, or the code. The decoder reconstructs the input data from the hidden layer. The hidden layer is not necessarily in the middle of the encoder and decoder, but it is the layer with the smallest dimensionality. The goal of an autoencoder is to learn an efficient representation of the input data, which can be used for dimensionality reduction, data compression, feature extraction, or generative modeling.
+
+[Autoencoders awesome blog](https://en.wikipedia.org/wiki/Autoencoderhttps://www.geeksforgeeks.org/auto-encoders/)
+
+Some examples of autoencoders are:
+
+•  Sparse autoencoder: This type of autoencoder adds a sparsity constraint to the hidden layer, forcing it to have a small number of active units. This encourages the autoencoder to learn more meaningful and robust features.https://www.geeksforgeeks.org/auto-encoders/
+
+•  Denoising autoencoder: This type of autoencoder adds noise to the input data and trains the autoencoder to recover the original data from the noisy input. This helps the autoencoder to learn more robust and invariant features.
+https://www.geeksforgeeks.org/auto-encoders/
+
+•  Variational autoencoder: This type of autoencoder models the hidden layer as a probabilistic distribution and trains the autoencoder to maximize the likelihood of the input data given the hidden layer. This allows the autoencoder to generate new data that is similar to the input data.
+https://www.tensorflow.org/tutorials/generative/autoencoderhttps://www.analyticsvidhya.com/blog/2021/06/autoencoders-a-gentle-introduction/
 
 <img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/0ee350ef-7f31-4ad7-b021-5d7b2bb67f74">
 
@@ -49,7 +59,7 @@ often employing transposed convolutional layer or upsampleing layers.
 
 <img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/0104ea8c-a847-4680-8f5b-196643c7c869">
 
-###### What are encoders and decoders?
+##### What are encoders and decoders?
 
 <img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/ab50e3ed-f4b9-4629-bedb-3f2637505df4">
 

@@ -55,11 +55,14 @@ https://www.tensorflow.org/tutorials/generative/autoencoderhttps://www.analytics
 
 <img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/0ee350ef-7f31-4ad7-b021-5d7b2bb67f74">
 
-<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/7e30b19a-dd47-49ca-b276-d2974e8eb8a3">
-
 <img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/0104ea8c-a847-4680-8f5b-196643c7c869">
 
 ##### What are encoders and decoders?
 
 <img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/ab50e3ed-f4b9-4629-bedb-3f2637505df4">
 
+##### Encoding process
+
+<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/7e30b19a-dd47-49ca-b276-d2974e8eb8a3">
+
+<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/7d7e7339-ed1a-4e58-bffe-8aa4c3ec965e">

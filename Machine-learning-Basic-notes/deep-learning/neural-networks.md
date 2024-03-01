@@ -65,4 +65,14 @@ https://www.tensorflow.org/tutorials/generative/autoencoderhttps://www.analytics
 
 <img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/7e30b19a-dd47-49ca-b276-d2974e8eb8a3">
 
+Why is it important?
+
+<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/2642b591-ecbf-4142-84be-02796ee464dd">
+
+##### Decoding process
+
+<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/41ddaef7-8ec4-4252-a95b-d178b08bd33c">
+
+
+
 <img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/7d7e7339-ed1a-4e58-bffe-8aa4c3ec965e">

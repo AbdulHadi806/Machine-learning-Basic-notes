@@ -18,7 +18,10 @@ In reinforcement Learning an agent which is trained on the basis of reward or pu
 
 <img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/b15d753f-1f6a-453c-83fa-d571f6dc1482">
 
-
+## Self Supervised Learning
+The type of learning in which model is trained by predicting something about its own input. For example creating a book with fill in the blanks, and making guesses
+what word will fill the blank. In this way model is trained but the model need to calculate its loss function meaning how far its answers are to the actual answers.
+This is why this is not unsupervised learning(where we dont need to calculate the loss function).
 
 ## Data:
 ### Structured Data

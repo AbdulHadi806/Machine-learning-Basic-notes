@@ -38,7 +38,7 @@ identifying patterns along the way. In simple terms, CNN creates a basic image, 
 <img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/1b3e03b2-eb6e-4532-825f-0dc347df9602">
 
 
-### Autoencoders
+### Autoencoders(unsupervised learning)
 An autoencoder is a type of neural network that is trained to copy its input to its output. It consists of two parts: an encoder and a decoder. The encoder transforms the input data into a lower dimensional representation, which is often called the hidden layer, the latent space, or the code. The decoder reconstructs the input data from the hidden layer. The hidden layer is not necessarily in the middle of the encoder and decoder, but it is the layer with the smallest dimensionality. The goal of an autoencoder is to learn an efficient representation of the input data, which can be used for dimensionality reduction, data compression, feature extraction, or generative modeling.
 
 [Autoencoders awesome blog](https://www.geeksforgeeks.org/auto-encoders/)

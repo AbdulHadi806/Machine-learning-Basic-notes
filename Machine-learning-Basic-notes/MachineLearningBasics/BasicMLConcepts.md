@@ -31,7 +31,7 @@ Structured data is the data that is in organized form, typically in rows and col
 Unstructured data refers to data that is not in a organized form. Common examples of unstructured data include **text documents, images, videos, social media posts, emails.** Since unstructured data does'nt form a rigid format or proper format, it often requires advanced techniques such as natural language processing(NLP) or computer vision to extract meaningful insights.
 
 ### Nominal Data
-Nominal Data is the qualitative data(blue hair, white hair) used to name or label variables without providing numeric values. No mathematical operation can be used on this type of data(e.g if we rename colors with 1, 2 ,3 and doing a mathematical operation on it e,g 2+1 we get meaningless data). Some other example are company names.
+Nominal Data also called categorical data is the qualitative data(blue hair, white hair) used to name or label variables without providing numeric values. No mathematical operation can be used on this type of data(e.g if we rename colors with 1, 2 ,3 and doing a mathematical operation on it e,g 2+1 we get meaningless data) except finding the most frequent value e.g how many times Ali exists in the data of employees. Some other example are company names.
 
 ### Ordinal Data
 Ordered data e.g Senoir => Junior => Intern. No mathematical operation can be used on this type of data. Another ordinal data example could be date(some may consider dates to be numerical data but it is not because doing mathematical operation in dates are meaningless for example 2005 + 2016 we get data that has no meaning).

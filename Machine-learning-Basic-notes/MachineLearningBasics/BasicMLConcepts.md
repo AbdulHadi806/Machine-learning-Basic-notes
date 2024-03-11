@@ -33,11 +33,17 @@ Unstructured data refers to data that is not in a organized form. Common example
 ### Nominal Data
 Nominal Data also called categorical data is the qualitative data(blue hair, white hair) used to name or label variables without providing numeric values. No mathematical operation can be used on this type of data(e.g if we rename colors with 1, 2 ,3 and doing a mathematical operation on it e,g 2+1 we get meaningless data) except finding the most frequent value e.g how many times Ali exists in the data of employees. Some other example are company names.
 
+<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/3d72546a-3b54-408e-b722-651dd9f30182">
+
 ### Ordinal Data
 Ordered data e.g Senoir => Junior => Intern. No mathematical operation can be used on this type of data. Another ordinal data example could be date(some may consider dates to be numerical data but it is not because doing mathematical operation in dates are meaningless for example 2005 + 2016 we get data that has no meaning).
 
+<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/3a1e274c-2a6e-46b7-8b6b-acd0f0aab698">
+
 ### Numerical Data
 Data on which Mathematical operations can be used are called Numerical Data. Consider this if we represent Nominal Or ordinal Data with numbers that will not mean that numerical Data is achieved. Numerical Data example can be sales of company.
+
+<img width="320" alt="image" src="https://github.com/AbdulHadi806/Machine-learning-Basic-notes/assets/113926529/36a481cc-09dc-41e9-8621-c4745e4bf1e9">
 
 ### Data preprocessing
 Data preprocessing is the method of cleaning, transforming and organizming raw data into data that is suitable for analysis and machine learning models.
